@@ -53,7 +53,7 @@
 				&trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans          &trans  &trans
 				&trans          &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
 				&trans  &trans  &trans                          &trans                  &trans  &trans  &trans  &trans  &trans  &trans
-				&kp C_PREV &none &kp C_PP &none &none &kp C_NEXT
+				&kp C_PREV &none &kp C_PP &kp C_PP &none &kp C_NEXT
 			>;
 		};
 	};
